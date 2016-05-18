@@ -9,7 +9,7 @@ This allows you to write your KB login, without needing to navigate through the 
     http://www.nature.com/ng/journal/v35/n1/full/ng0903-1.html
                          ^
     http://www.nature.com.ep.fjernadgang.kb.dk/ng/journal/v35/n1/full/ng0903-1.html
-
+                         ^^^^^^^^^^^^^^^^^^^^^
 ## As a bookmarklet
 As an alternative, put this in a bookmark in your browser:
 
