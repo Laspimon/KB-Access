@@ -2,7 +2,7 @@
 Quick access to academic articles through universal access at University of Copenhagen (when not on campus).
 
 ## What it does
-Inserts .ep.fjernadgang.kb.dk before the first slash (/), directly following the Top Level Domain (e.g. .com).
+Inserts .ep.fjernadgang.kb.dk before the first slash (/), directly following the Top Level Domain (e.g. .com) on your current page.
 This allows you to write your KB login, without needing to navigate through the KB website.
 
 ### For example
